@@ -5,4 +5,5 @@ My name is Alon, I am a young developer from Israel. I am not working on anythin
 * I am interested in rendering, CG and Ray Tracing 💡
 * I want to learn mathematics ∫
 
-[![AregevDev's github stats](https://github-readme-stats.vercel.app/api?username=aregevdev&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![AregevDev's github stats](https://github-readme-stats.vercel.app/api?username=aregevdev&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aregevdev&langs_count=10&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
