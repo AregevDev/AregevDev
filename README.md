@@ -1,6 +1,6 @@
 ### Hi
 
-My name is Alon, I am a young developer from Israel. I am not working on anything significant for now, I just read and mess around. I am working at an Ice Cream place as a part time job having and studying at YG (י"ג) class at Ort Rehovot Collage learning computer science and software engineering.
+My name is Alon, I am a young developer from Israel. I am not working on anything significant for now, I just read and mess around. I am working at an Ice Cream place as a part time job and studying at YG (י"ג) class at Ort Rehovot Collage learning computer science and software engineering.
 
 * I am interested in rendering, CG and Ray Tracing 💡
 * I want to learn mathematics ∫
