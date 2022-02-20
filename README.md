@@ -1,6 +1,6 @@
 ### Hi
 
-My name is Alon, I am a young developer from Israel. I am not working on anything significant for now, I just read and mess around. I work at an Ice Cream place as a part time job. I am on haitus from programming, I feel blocked, unmotivated and incapable of comprehending anything related to CS, while it still interests me a little, I don't know if I could come back to it
+My name is Alon, I am a young developer from Israel. I am not working on anything significant for now, I just read and mess around. I am on haitus from programming, I feel blocked, unmotivated and incapable of comprehending anything related to CS, while it still interests me a little, I don't know if I could come back to it
 
 * I am interested in rendering, CG and Ray Tracing 💡
 * I want to learn mathematics ∫
